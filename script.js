@@ -17,9 +17,9 @@ function addTask(){
 }
 
 inputBox.addEventListener("keypress", function(event) {
-    if (event.key === "Enter") {  // Check if the "Enter" key is pressed
-        addTask();  // Call addTask function
-        event.preventDefault();  // Prevent default form submission, if applicable
+    if (event.key === "Enter") {
+        addTask();
+        event.preventDefault();
     }
 });
 
