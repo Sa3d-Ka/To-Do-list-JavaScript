@@ -60,6 +60,7 @@ button{
 ul li{
     list-style: none;
     font-size: 19px;
+    font-weight: 540;
     padding: 16px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
