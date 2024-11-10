@@ -2,6 +2,9 @@
 
 A simple, interactive to-do list web application built with HTML, CSS, and JavaScript. This app allows users to add, check off, and delete tasks, with task data saved in the browser's local storage for persistence.
 
+![To-Do List-JavaScript](images/Demo1.png)
+![To-Do List-JavaScript](images/Demo2.png)
+
 ## Features
 
 - **Add Task**: Enter a task in the input box and press the "Enter" key or click the "Add" button to add it to the list.
