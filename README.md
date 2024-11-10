@@ -1,9 +1,15 @@
 # To-Do List-JavaScript
 
-A simple, interactive to-do list web application built with HTML, CSS, and JavaScript. This app allows users to add, check off, and delete tasks, with task data saved in the browser's local storage for persistence.
+A simple, interactive to-do list web application built with **HTML**, **CSS**, and **JavaScript**. This app allows users to add, check off, and delete tasks, with task data saved in the browser's local storage for persistence.
 
 ![To-Do List-JavaScript](images/Demo1.png)
 ![To-Do List-JavaScript](images/Demo2.png)
+
+## Demo
+
+You can try the live demo of the To-Do List app by clicking the link below:
+
+[Try the To-Do List Demo](https://sa3d-ka.github.io/To-Do-list-JavaScript/)
 
 ## Features
 
