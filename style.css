@@ -74,9 +74,9 @@ button:hover {
 
 ul li {
     list-style: none;
-    font-size: 19px;
+    font-size: 16px;
     font-weight: 540;
-    padding: 9px 10px 10px 40px;
+    padding: 12px 10px 10px 40px;
     user-select: none;
     cursor: pointer;
     position: relative;
