@@ -28,4 +28,4 @@ You can try the live demo of the To-Do List app by clicking the link below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-js.git
+   git clone https://github.com/Sa3d-Ka/To-Do-list-JavaScript.git
